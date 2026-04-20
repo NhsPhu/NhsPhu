@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hồ%20Sỹ%20Phú&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20%26%20Mobile%20Developer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Nguyễn%20Hồ%20Sỹ%20Phú&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%7C%20Backend%20%26%20Mobile%20Developer&amp;descAlignY=55&amp;descSize=18" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;AI+%26+Data+Enthusiast+%F0%9F%A4%96;Spring+Boot+%7C+Python+%7C+React+Native;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6AD3F7&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Backend+Engineer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;AI+%26+Data+Enthusiast+%F0%9F%A4%96;Spring+Boot+%7C+Python+%7C+React+Native;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <!-- Profile Views & Followers -->
@@ -109,28 +109,6 @@ me.say_hi()
 
 ---
 
-## 🎮 Thử thách Mini-game: Tic-Tac-Toe!
-
-Bạn có thể đánh bại được máy tính không? Hãy thử ngay bằng cách nhấn vào các ô vuông bên dưới nhé!
-
-<div align="center">
-
-<!-- ttt_start -->
-**Đến lượt của bạn! Nhấn vào một ô màu trắng để đi (X).**
-
-|   | 1 | 2 | 3 |
-|---|---|---|---|
-| **A** | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C0&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C1&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C2&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) |
-| **B** | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C3&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C4&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C5&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) |
-| **C** | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C6&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C7&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C8&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) |
-
-<!-- ttt_state:           -->
-<!-- ttt_end -->
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -193,6 +171,6 @@ Bạn có thể đánh bại được máy tính không? Hãy thử ngay bằng 
 <br/>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" />
 
 </div>
