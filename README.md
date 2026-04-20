@@ -22,20 +22,20 @@
 class NhsPhu:
     def __init__(self):
         self.name       = "Nguyễn Hồ Sỹ Phú"
-        self.role       = "Software Engineer"
-        self.university = "Đại học Gia Định (GDU)"
+        self.role       = "Fresher Software Engineer"
+        self.dob        = "16/05/2005"
         self.location   = "Quận Gò Vấp, TP. Hồ Chí Minh 🇻🇳"
-        self.year       = "Sinh viên năm 3"
-        self.focus      = ["Backend Systems", "Mobile Apps", "AI Integration"]
-        self.current    = "Movie Streaming Platform (Microservices + HLS)"
-        self.learning   = ["Large-scale System Optimization", "Web3 / Blockchain", "JWT Security"]
-        self.email      = "nguyenhosyphu@gmail.com"
+        self.university = "Đại học Gia Định (Kỹ thuật Phần mềm)"
+        self.focus      = ["Backend Architecture", "Microservices", "Data Application"]
+        self.learning   = ["Blockchain / Web3", "Agile / Scrum", "System Optimization"]
+        self.objective  = "Trở thành Senior Backend Developer, nâng cao tư duy thiết kế hệ thống quy mô lớn"
+        self.contact    = {"email": "nguyenhosyphu@gmail.com", "phone": "0337843118"}
 
-    def say_hi(self):
-        print("Chào! Cảm ơn vì đã ghé thăm profile của tôi 🙌")
+    def execute_career_goal(self):
+        return "Cam kết học hỏi liên tục và đóng góp giá trị kỹ thuật bền vững."
 
 me = NhsPhu()
-me.say_hi()
+me.execute_career_goal()
 ```
 
 ---
