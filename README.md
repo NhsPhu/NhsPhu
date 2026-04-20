@@ -1,40 +1,40 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- Capsule Header -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Nguyá»…n%20Há»“%20Sá»¹%20PhÃº&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%7C%20Backend%20%26%20Mobile%20Developer&amp;descAlignY=55&amp;descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Nguyễn%20Hồ%20Sỹ%20Phú&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%7C%20Backend%20%26%20Mobile%20Developer&amp;descAlignY=55&amp;descSize=18" />
 
 <!-- Typing SVG -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6AD3F7&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Backend+Engineer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;AI+%26+Data+Enthusiast+%F0%9F%A4%96;Spring+Boot+%7C+Python+%7C+React+Native;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6AD3F7&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Backend+Engineer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;AI+%26+Data+Enthusiast+%F0%9F%A4%96;Spring+Boot+%7C+Python+%7C+React+Native;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
 <!-- Profile Views & Followers -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=NhsPhu&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NhsPhu?label=Followers&amp;style=flat-square&amp;color=0e75b6" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=NhsPhu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NhsPhu?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
 </p>
 
 </div>
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Vá» tÃ´i
+## 👨‍💻 Về tôi
 
 ```python
 class NhsPhu:
     def __init__(self):
-        self.name       = "Nguyá»…n Há»“ Sá»¹ PhÃº"
+        self.name       = "Nguyễn Hồ Sỹ Phú"
         self.role       = "Software Engineer"
-        self.university = "Äáº¡i há»c Gia Äá»‹nh (GDU)"
-        self.location   = "Quáº­n GÃ² Váº¥p, TP. Há»“ ChÃ­ Minh ðŸ‡»ðŸ‡³"
-        self.year       = "Sinh viÃªn nÄƒm 3"
+        self.university = "Đại học Gia Định (GDU)"
+        self.location   = "Quận Gò Vấp, TP. Hồ Chí Minh 🇻🇳"
+        self.year       = "Sinh viên năm 3"
         self.focus      = ["Backend Systems", "Mobile Apps", "AI Integration"]
         self.current    = "Movie Streaming Platform (Microservices + HLS)"
         self.learning   = ["Large-scale System Optimization", "Web3 / Blockchain", "JWT Security"]
         self.email      = "nguyenhosyphu@gmail.com"
 
     def say_hi(self):
-        print("ChÃ o! Cáº£m Æ¡n vÃ¬ Ä‘Ã£ ghÃ© thÄƒm profile cá»§a tÃ´i ðŸ™Œ")
+        print("Chào! Cảm ơn vì đã ghé thăm profile của tôi 🙌")
 
 me = NhsPhu()
 me.say_hi()
@@ -42,35 +42,35 @@ me.say_hi()
 
 ---
 
-## ðŸš€ Tech Universe
+## 🚀 Tech Universe
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&amp;logo=vite&amp;logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%23004F8D.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&amp;logo=ffmpeg&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%23004F8D.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 </div>
 
 <br/>
 
-## ðŸ”§ My Stack & Tools
+## 🔧 My Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -84,57 +84,57 @@ me.say_hi()
 
 ---
 
-## ðŸš€ Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| ðŸŽ¬ Movie Streaming System | ðŸ“Š AI Sales Analysis | ðŸ“š Bookstore Manager |
+| 🎬 Movie Streaming System | 📊 AI Sales Analysis | 📚 Bookstore Manager |
 |:---:|:---:|:---:|
-| Há»‡ thá»‘ng phÃ¡t video HLS Ä‘a ná»n táº£ng | Dashboard BI tá»± Ä‘á»™ng hÃ³a vá»›i NLP | App Desktop quáº£n lÃ½ nhÃ  sÃ¡ch |
-| Spring Boot Â· Microservices Â· React Native Â· Python Â· FFmpeg | Python Â· Streamlit Â· Plotly Â· Groq API Â· Facebook Prophet | Python Â· CustomTkinter Â· MySQL |
+| Hệ thống phát video HLS đa nền tảng | Dashboard BI tự động hóa với NLP | App Desktop quản lý nhà sách |
+| Spring Boot · Microservices · React Native · Python · FFmpeg | Python · Streamlit · Plotly · Groq API · Facebook Prophet | Python · CustomTkinter · MySQL |
 | ![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white) | ![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white) | ![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white) |
-| [ðŸ”— Repository](https://github.com/NhsPhu/movie-streaming) | [ðŸ”— Repository](https://github.com/NhsPhu/sales-bi-ai) | [ðŸ”— Repository](https://github.com/NhsPhu/bookstore-manager) |
+| [🔗 Repository](https://github.com/NhsPhu/movie-streaming) | [🔗 Repository](https://github.com/NhsPhu/sales-bi-ai) | [🔗 Repository](https://github.com/NhsPhu/bookstore-manager) |
 
 </div>
 
-### ðŸŽ¬ Movie Streaming System â€” *Flagship Project*
+### 🎬 Movie Streaming System — *Flagship Project*
 
-> **Kiáº¿n trÃºc Microservices** vá»›i kháº£ nÄƒng phÃ¡t video **Adaptive Streaming (HLS)** Ä‘a ná»n táº£ng.
+> **Kiến trúc Microservices** với khả năng phát video **Adaptive Streaming (HLS)** đa nền tảng.
 
-- ðŸ—ï¸ **Backend:** Java Spring Boot + API Gateway + Service Discovery
-- ðŸ“± **Mobile:** React Native (Android/iOS)
-- ðŸ¤– **AI Service:** Python FastAPI â€” gá»£i Ã½ phim cÃ¡ nhÃ¢n hÃ³a báº±ng **Collaborative Filtering**
-- ðŸŽžï¸ **Media:** FFmpeg xá»­ lÃ½ encode/transcoding video tá»± Ä‘á»™ng
-- ðŸ” **Auth:** JWT + Spring Security
+- 🏗️ **Backend:** Java Spring Boot + API Gateway + Service Discovery
+- 📱 **Mobile:** React Native (Android/iOS)
+- 🤖 **AI Service:** Python FastAPI — gợi ý phim cá nhân hóa bằng **Collaborative Filtering**
+- 🎞️ **Media:** FFmpeg xử lý encode/transcoding video tự động
+- 🔐 **Auth:** JWT + Spring Security
 
 ---
 
-## ðŸ“Š GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NhsPhu&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhsPhu&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NhsPhu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhsPhu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhsPhu&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhsPhu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhsPhu&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Contribution Graph" />
-</div>
-
----
-
-## ðŸ† GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NhsPhu&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;row=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhsPhu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## ðŸ Contribution Snake
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NhsPhu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -146,7 +146,7 @@ me.say_hi()
 
 ---
 
-## ðŸŒ Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -155,8 +155,8 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NhsPhu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/NhsPhu)
 
-ðŸ“ **Quáº­n GÃ² Váº¥p, TP. Há»“ ChÃ­ Minh, Viá»‡t Nam**
-ðŸ“ž **0337843118**
+📍 **Quận Gò Vấp, TP. Hồ Chí Minh, Việt Nam**
+📞 **0337843118**
 
 </div>
 
@@ -164,15 +164,13 @@ me.say_hi()
 
 <div align="center">
 
-### ðŸ’¬ Quote of the Day
+### 💬 Quote of the Day
 
-> *"First, solve the problem. Then, write the code."* â€” John Johnson
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
 <!-- Footer Wave -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" />
 
 </div>
-
