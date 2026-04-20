@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Nguyễn%20Hồ%20Sỹ%20Phú&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%7C%20Backend%20%26%20Mobile%20Developer&amp;descAlignY=55&amp;descSize=18" />
+[![Capsule Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hồ%20Sỹ%20Phú&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20and%20Mobile%20Developer&descAlignY=55&descSize=18)](https://github.com/NhsPhu)
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6AD3F7&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Backend+Engineer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;AI+%26+Data+Enthusiast+%F0%9F%A4%96;Spring+Boot+%7C+Python+%7C+React+Native;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;AI+%26+Data+Enthusiast+%F0%9F%A4%96;Spring+Boot+%7C+Python+%7C+React+Native;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <!-- Profile Views & Followers -->
 <p>
@@ -129,7 +127,9 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NhsPhu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NhsPhu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -171,6 +171,6 @@ me.say_hi()
 <br/>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" />
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
