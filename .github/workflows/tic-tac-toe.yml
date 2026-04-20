@@ -1,0 +1,40 @@
+name: Play Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'ttt|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Play Game
+        run: python .github/scripts/play_ttt.py "${{ github.event.issue.title }}"
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Game Bot"
+          git add README.md
+          git commit -m "bot: update tic-tac-toe board for move ${{ github.event.issue.title }}" || exit 0
+          git push
+
+      - name: Close Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: "Nước đi của bạn đã được ghi nhận! Quay lại trang Profile và refresh để xem kết quả nhé."

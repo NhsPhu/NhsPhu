@@ -103,6 +103,28 @@ me.say_hi()
 
 ---
 
+## 🎮 Thử thách Mini-game: Tic-Tac-Toe!
+
+Bạn có thể đánh bại được máy tính không? Hãy thử ngay bằng cách nhấn vào các ô vuông bên dưới nhé!
+
+<div align="center">
+
+<!-- ttt_start -->
+**Đến lượt của bạn! Nhấn vào một ô màu trắng để đi (X).**
+
+|   | 1 | 2 | 3 |
+|---|---|---|---|
+| **A** | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C0&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C1&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C2&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) |
+| **B** | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C3&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C4&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C5&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) |
+| **C** | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C6&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C7&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) | [<kbd>⬜</kbd>](https://github.com/NhsPhu/NhsPhu/issues/new?title=ttt%7C8&body=Bam+Submit+new+issue+de+di+nuoc+co+nay.) |
+
+<!-- ttt_state:           -->
+<!-- ttt_end -->
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
