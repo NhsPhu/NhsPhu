@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Capsule Header -->
-[![Capsule Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hồ%20Sỹ%20Phú&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20and%20Mobile%20Developer&descAlignY=55&descSize=18)](https://github.com/NhsPhu)
+[![Capsule Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hồ%20Sỹ%20Phú&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Fullstack,%20Backend%20and%20Mobile%20Developer&descAlignY=55&descSize=18)](https://github.com/NhsPhu)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;AI+%26+Data+Enthusiast+%F0%9F%A4%96;Spring+Boot+%7C+Python+%7C+React+Native;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
