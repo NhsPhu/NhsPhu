@@ -91,7 +91,7 @@ me.execute_career_goal()
 | Hệ thống phát video HLS đa nền tảng | Dashboard BI tự động hóa với NLP | App Desktop quản lý nhà sách |
 | Spring Boot · Microservices · React Native · Python · FFmpeg | Python · Streamlit · Plotly · Groq API · Facebook Prophet | Python · CustomTkinter · MySQL |
 | ![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white) | ![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white) | ![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white) |
-| [🔗 Repository](https://github.com/NhsPhu/movie-streaming) | [🔗 Repository](https://github.com/NhsPhu/sales-bi-ai) | [🔗 Repository](https://github.com/NhsPhu/bookstore-manager) |
+| [🔗 Repository](https://github.com/NhsPhu/MovieFilm) | [🔗 Repository](https://github.com/NhsPhu/Pro-Sales-Analytics) | [🔗 Repository](https://github.com/NhsPhu/Bookstore) |
 
 </div>
 
@@ -141,7 +141,6 @@ me.execute_career_goal()
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhosyphu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NhsPhu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NhsPhu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Nh.Shyfu/)
 
 📍 **Quận Gò Vấp, TP. Hồ Chí Minh, Việt Nam**
