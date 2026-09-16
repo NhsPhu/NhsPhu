@@ -156,11 +156,7 @@ me.execute_career_goal()
 
 ### 📚 Bookstore Manager
 
-> Ứng dụng Desktop quản lý toàn bộ quy trình nhà sách.
-
-- 🖥️ **UI:** Giao diện hiện đại với CustomTkinter
-- 🗄️ **Database:** MySQL · CRUD tối ưu
-- 📦 **Tính năng:** Nhập kho · Tồn kho · Bán hàng · Chăm sóc khách hàng
+> Ứng dụng Desktop quản lý nhà sách — Python · CustomTkinter · MySQL. Bao gồm: nhập kho, tồn kho, bán hàng và chăm sóc khách hàng.
 
 ---
 
@@ -172,7 +168,7 @@ me.execute_career_goal()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhsPhu&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=NhsPhu&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -182,11 +178,11 @@ me.execute_career_goal()
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhosyphu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-h%E1%BB%93-s%E1%BB%B9-ph%C3%BA-384701437/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NhsPhu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Nh.Shyfu/)
 
 📍 **Quận Gò Vấp, TP. Hồ Chí Minh, Việt Nam**
-📞 **0337843118**
 
 </div>
 
